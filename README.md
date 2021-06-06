@@ -5,7 +5,7 @@ Hi, I'm Bogs! 👋
 <a href="mailto:jrpespinas@gmail.com?subject=Hi! Found you on Github!" rel="nofollow noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=20> </a> <img src="https://komarev.com/ghpvc/?username=jrpespinas" alt="jrpespinas" /> 
 
  
-- 💻 Currently working at **Cobena Business Analytics and Strategy, Inc.**
+- 💻 Currently working as a **Software Engineer** at **Cobena Business Analytics and Strategy, Inc.**
 - 🎓 Graduated **Cum Laude** with a degree in **BS Information Technology** at **Ateneo de Naga University**
 - 📚 Learning about **Python, C++, Data Structures, and Algorithms**
 - 💡 Interests in **Machine Learning Engineering, Software Engineering, and Applied Artificial Intelligence**
