@@ -6,7 +6,7 @@ Hi, I'm Bogs! 👋
 
  
 - 👨‍💻 Currently working as a **Software Engineer** at **Cobena Business Analytics and Strategy, Inc.**
-- 🎓 Graduated **Cum Laude** of **Bachelor's degree in Information Technology** at **Ateneo de Naga University**
+- 🎓 Holds a **Bachelor's degree in Information Technology**, **Cum Laude**, at **Ateneo de Naga University**
 - 📚 Learning about **Go, C++, Data Structures, and Algorithms**
 - 💡 Interests in **Theoretical Computer Science, Software Engineering, and Machine Learning Engineering**
 - 💻 Current hobbies include **Competitive Programming, Reading, and Gaming**
