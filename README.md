@@ -7,7 +7,7 @@ Hi, I'm Bogs! 👋
  
 - 👨‍💻 Currently working as a **Software Engineer** at **Demand Science Team Philippines, Inc.**
 - 🎓 **Cum Laude** graduate with a **Bachelor's degree in Information Technology** from **Ateneo de Naga University**
-- 📚 Learning about **Go, JavaScript, Data Structures, and Algorithms**
+- 📚 Learning about **Go, C#, JavaScript, Data Structures, and Algorithms**
 - 💡 Interests in **Theoretical Computer Science, Software Engineering, and Computing Systems**
 - 💻 Current hobbies include **Competitive Programming, Reading, and Gaming**
 - 📄 Currently holds the [AWS Certified Developer - Associate](https://www.credly.com/badges/00e18bea-b9ef-4a83-bf88-44a9f1886eab/linked_in) certificate
