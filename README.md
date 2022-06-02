@@ -1,7 +1,7 @@
 Hi, I'm Bogs! I'm a Software Engineer! 👋
 ===
-→ **Languages**: Golang, Python, JavaScript (Node.js), NoSQL, SQL <br />
-→ **Frameworks**: Flask, FastAPI, Express.js <br />
+→ **Languages**: Golang, Python, JavaScript (Node.js)<br />
+→ **Frameworks**: Gin, Flask, FastAPI, Express.js <br />
 → **Tools**: Git, Docker, Amazon Web Services (DynamoDB, Lambda, S3), VS Code <br />
 → **Certification**: [AWS Certified Developer - Associate](https://www.credly.com/badges/00e18bea-b9ef-4a83-bf88-44a9f1886eab/linked_in) <br />
 
