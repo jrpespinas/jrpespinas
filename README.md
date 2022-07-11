@@ -1,5 +1,12 @@
-Hi, I'm Bogs! I'm a Software Engineer! 👋
+Hi, I'm Bogs! 👋
 ===
+
+Jan Rodolf "Bogs" Espinas is a Cum Laude graduate with a Bachelor of Science degree in Information Technology from Ateneo de Naga University. 
+He is currently a Software Engineer focusing on back end development at Demand Science Team Philippines, Inc. 
+His career interests are in Theoretical Computer Science, Software Engineering, and Computing Systems. 
+He practices coding skills by casually participating in competitive programming and developing pet projects written in Golang.
+
+### Skills 
 → **Languages**: Golang, Python, JavaScript (Node.js)<br />
 → **Frameworks**: Gin, Flask, FastAPI, Express.js <br />
 → **Tools**: Git, Docker, Amazon Web Services (DynamoDB, Lambda, S3), VS Code <br />
