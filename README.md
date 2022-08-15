@@ -1,8 +1,8 @@
 Hi, I'm Bogs! 👋
 ===
 
-Jan Rodolf "Bogs" Espinas is a Cum Laude graduate with a Bachelor of Science degree in Information Technology from Ateneo de Naga University. 
-He is currently a Software Engineer focusing on back end development at Demand Science Team Philippines, Inc. 
+Jan Rodolf Espinas is a Software Engineer II focusing on back-end development at Kumu. He is also a former Software Engineer from Demand Science and Senti AI.
+He is a Cum Laude graduate with a Bachelor of Science degree in Information Technology from Ateneo de Naga University. 
 His career interests are in Theoretical Computer Science, Software Engineering, and Computing Systems. 
 He practices coding skills by casually participating in competitive programming and developing pet projects written in Golang.
 
