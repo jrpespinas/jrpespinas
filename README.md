@@ -3,13 +3,13 @@ Hi, I'm Bogs! 👋
 
 Bogs is a Software Engineer II focusing on back-end development at Kumu. He is also a former Software Engineer at Demand Science and Senti AI.
 He is a Cum Laude graduate with a Bachelor of Science degree in Information Technology from Ateneo de Naga University. 
-His career interests are in Theoretical Computer Science, Software Engineering, and Computing Systems. 
-He practices coding skills by casually participating in competitive programming and developing pet projects written in Golang.
+His career interests are in Algorithms, Distributed Computing, and Software Engineering. 
+He practices coding skills by casually participating in competitive programming and developing pet projects written in various tech stacks.
 
 ### Skills 
-→ **Languages**: Golang, Python, JavaScript (Node.js)<br />
-→ **Frameworks**: Gin, Flask, FastAPI, Express.js <br />
-→ **Tools**: Git, Docker, Amazon Web Services (DynamoDB, Lambda, S3), VS Code <br />
+→ **Languages**: Golang, Python, TypeScript, JavaScript (Node.js)<br />
+→ **Frameworks**: Gin, Flask, FastAPI, Nest.js, Express.js <br />
+→ **Infrastructure**: Git, Docker, Amazon Web Services (DynamoDB, Lambda, S3)<br />
 → **Certification**: [AWS Certified Developer - Associate](https://www.credly.com/badges/00e18bea-b9ef-4a83-bf88-44a9f1886eab/linked_in) <br />
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=$jrpespinas) -->
