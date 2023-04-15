@@ -3,7 +3,7 @@ Hi, I'm Bogs! 👋
 
 Bogs is a Software Engineer II focusing on back-end development at Kumu. He is also a former Software Engineer at Demand Science and Senti AI.
 He is a Cum Laude graduate with a Bachelor of Science degree in Information Technology from Ateneo de Naga University. 
-His career interests are in Algorithms, Distributed Computing, and Software Engineering. 
+His career interests are in Algorithms, Distributed Computing, and Machine Learning Engineering. 
 He practices coding skills by casually participating in competitive programming and developing pet projects written in various tech stacks.
 
 ### Skills 
