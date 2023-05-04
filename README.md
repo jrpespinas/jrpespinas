@@ -1,7 +1,7 @@
 Hi, I'm Bogs! 👋
 ===
 
-Bogs is an L2 Software Engineer who formerly works at Kumu, Demand Science and Senti AI. He is a Cum Laude graduate with a Bachelor of Science degree in Information Technology from Ateneo de Naga University. His career interests are in Algorithms, System Design, and Machine Learning Engineering. He practices coding skills by casually participating in competitive programming contests and developing pet projects written in various tech stacks.
+Bogs is an L2 Software Engineer who formerly worked at Kumu, Demand Science and Senti AI. He is a Cum Laude graduate with a Bachelor of Science degree in Information Technology from Ateneo de Naga University. His career interests are in Algorithms, System Design, and Machine Learning Engineering. He practices coding skills by casually participating in competitive programming contests and developing pet projects written in various tech stacks.
 
 ### Skills 
 → **Programming Languages:**: Golang, Python, TypeScript, JavaScript (Node.js)<br />
