@@ -7,7 +7,7 @@ Bogs is a Software Development Engineer who is currently working at GCash as an 
 → **Programming Languages:**: Golang, Python, TypeScript, JavaScript (Node.js)<br />
 → **Backend Frameworks**: Gin, Flask, FastAPI, Nest.js, Express.js <br />
 → **Data Science Stack**: Sci-kit Learn, Pandas, NumPy, Matplotlib, Seaborn<br />
-→ **Infrastructure**: Git, Docker, Kubernetes Redis, Amazon Web Services (DynamoDB, Lambda, S3)<br />
+→ **Infrastructure**: Git, Docker, Kubernetes, Redis, Amazon Web Services (DynamoDB, Lambda, S3)<br />
 → **Certification**: [AWS Certified Developer - Associate](https://www.credly.com/badges/00e18bea-b9ef-4a83-bf88-44a9f1886eab/linked_in) <br />
 
 
