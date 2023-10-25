@@ -1,6 +1,6 @@
 ### Hi, I'm Bogs! 👋
 
-I am **Software Engineer** who is currently working at GCash as a Lead MLOps Engineer. He formerly worked at Kumu, Demand Science, and Senti AI.
+I am **Software Engineer** who is currently working at GCash as a Lead MLOps Engineer. I formerly worked at Kumu, Demand Science, and Senti AI.
 
 I graduated **Cum Laude** with a Bachelor of Science degree in Information Technology from Ateneo de Naga University--taking courses such as Machine Learning, Human-Computer Interaction, and Web Development
 
