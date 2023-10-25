@@ -1,16 +1,16 @@
 ### Hi, I'm Bogs! 👋
 
-I am a **Software Development Engineer** from the Philippines who is currently working at GCash as an MLOps Engineer. I formerly worked at Kumu, Demand Science, and Senti AI. 
+I am **Software Engineer** who is currently working at GCash as a Lead MLOps Engineer. He formerly worked at Kumu, Demand Science, and Senti AI.
 
-I graduated **Cum Laude** with a Bachelor of Science degree in Information Technology from Ateneo de Naga University.
+I graduated **Cum Laude** with a Bachelor of Science degree in Information Technology from Ateneo de Naga University--taking courses such as Machine Learning, Human-Computer Interaction, and Web Development
 
-I am a **generalist** who take keen interests in a broad range of disciplines in Computing Science such as algorithms, computing architecture, distributed systems, machine learning engineering, programming languages, and software engineering. 
+I am a **generalist** who takes keen interests in a broad range of disciplines in Computing Science such as algorithms, computer organization and architecture, distributed systems, machine learning engineering, and software engineering.
 
 My main career interest revolves around **back-end development of data-intensive applications**.
 
 ### Skills 
 → **Programming Languages**: Golang, Python, TypeScript, JavaScript (Node.js)<br />
-→ **Backend Frameworks**: Gin, Flask, FastAPI, Nest.js, Express.js <br />
+→ **Backend Frameworks**: Gin, FastAPI, Flask, Nest.js, Express.js <br />
 → **Data Science Stack**: Sci-kit Learn, Pandas, NumPy, Matplotlib, Seaborn<br />
 → **Infrastructure**: Git, Docker, Kubernetes, Redis, Amazon Web Services (DynamoDB, Lambda, S3)<br />
 → **Certification**: [AWS Certified Developer - Associate](https://www.credly.com/badges/00e18bea-b9ef-4a83-bf88-44a9f1886eab/linked_in) <br />
