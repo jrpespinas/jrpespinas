@@ -1,12 +1,12 @@
 ### Hi, I'm Bogs! 👋
 
-I am **Software Engineer** who is currently working at GCash as a Lead MLOps Engineer. I formerly worked at Kumu, Demand Science, and Senti AI.
+I am **Software Engineer** who specializes in **Data-Intensive Applications**. 
 
-I graduated **Cum Laude** with a Bachelor of Science degree in Information Technology from Ateneo de Naga University--taking courses such as Machine Learning, Human-Computer Interaction, and Web Development
+I am currently working at **GCash** as a **Lead MLOps Engineer**. I formerly worked at Kumu, Demand Science, and Senti AI.
 
-I am a **generalist** who takes keen interests in a broad range of disciplines in Computing Science such as algorithms, computer organization and architecture, distributed systems, machine learning engineering, and software engineering.
+I graduated **Cum Laude** with a Bachelor of Science degree in Information Technology from Ateneo de Naga University--taking courses such as Machine Learning, Human-Computer Interaction, and Web Development.
 
-My main career interest revolves around **back-end development of data-intensive applications**.
+I focus on a broad range of disciplines in Computing Science and Software Engineering such as Algorithms, Computer Systems, Distributed Computing, DevOps, and MLOps.
 
 ### Skills 
 → **Programming Languages**: Golang, Python, TypeScript, JavaScript (Node.js)<br />
