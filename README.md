@@ -2,7 +2,8 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=$jrpespinas) -->
 <a href="https://www.jrpespinas.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height=20></a>
 <a href="https://www.linkedin.com/in/jrpespinas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=20></a>
-<a href="mailto:jrpespinas@gmail.com?subject=Hi! Found you on Github!" rel="nofollow noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=20> </a> <img src="https://komarev.com/ghpvc/?username=jrpespinas" alt="jrpespinas" /> 
+<a href="mailto:jrpespinas@gmail.com?subject=Hi! Found you on Github!" rel="nofollow noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=20></a> 
+<img src="https://komarev.com/ghpvc/?username=jrpespinas" alt="jrpespinas" /> 
 
 ### About Me
 I am a **Machine Learning Engineer** who is currently working at GCash. He formerly worked at Kumu, Demand Science, and Senti AI as a Software Engineer. 
