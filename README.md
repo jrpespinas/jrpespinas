@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Machine Learning Engineer at GCash**, where I work on **MLOps**: productionizing ML models, building a **centralized observability platform** for ML and data pipelines across the company, deploying data applications on **Kubernetes**, and driving **root cause analysis** to keep systems and models reliable.
+I'm an **MLOps Engineer at GCash**: productionizing ML models, building a **centralized observability platform** for ML and data pipelines across the company, deploying data applications on **Kubernetes**, and driving **root cause analysis** to keep systems and models reliable.
 
 Before GCash, I worked as a **Software Engineer** at **Senti AI**, **Demand Science**, and **Kumu**. That software engineering background shapes how I approach ML: as a **system design problem**, not just a modeling one.
 
