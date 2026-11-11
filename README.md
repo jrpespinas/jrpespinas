@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bogs 👋</h1>
-<h3 align="center">MLOps & AI Platform Engineer · System Design · DataOps</h3>
+<h3 align="center">MLOps Engineer & AI Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.jrpespinas.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" height="22"></a>
@@ -56,6 +56,25 @@ Designed an automated observability tool for **daily feature mart health**.
 Led the creation of the **standard operating procedures, documentation, and delegation frameworks** for the MLOps function.
 - Set clear ways of working across **ML engineering, research, and data operations**
 - Removed cross-department bottlenecks and **clarified ownership of shared infrastructure**
+
+---
+
+### 🏸 Side Projects
+
+Products I've built and shipped myself, end to end.
+
+#### 🏸 Queueing App: Badminton Queue Manager with Auto-Queueing
+A badminton court queueing app that **automatically builds and rotates matches**, so organizers don't have to manage the queue by hand.<br>
+<a href="https://queueing.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-queueing.app-2EA44F?style=flat-square&logo=googlechrome&logoColor=white"></a>
+
+#### 📋 Pegboard: Spreadsheet-Style Badminton Queue Board
+A lighter queueing app with a **familiar spreadsheet-style view** for groups that prefer to assign matches manually (no auto-queueing).<br>
+<a href="https://pegboard-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20App-Pegboard-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+
+#### 📈 Sports Ministry Operations Dashboard *(private)*
+A reporting dashboard built for sports ministries. It isn't public, but it's **in active use by administrators** for:
+- **Quarterly reports**
+- **Tournament operations reports**
 
 ---
 
